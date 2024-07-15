@@ -9,7 +9,7 @@
 }
 
 .acordeon.open,
-.acordeon:hover {
+.acordeon:hover{
     background-color: #55569E;
     border-color: #55569E;
 }
@@ -27,28 +27,28 @@
     border: none;
 }
 
-.acordeon .trigger h2 {
+.acordeon .trigger h2{
     margin: 0;
     font-size: 1.5rem;
-    text-align: start;
 }
+
 
 .acordeon .trigger:hover {
     cursor: pointer;
 }
 
-.acordeon .trigger::after {
+.acordeon .trigger::after{
     content: '';
     display: inline-block;
     width: 1.5rem;
     height: 1.5rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('../img/icons/arrow-top.svg');
+    background-image: url('../img/icons/arrow_top.svg');
     transition: .25s;
 }
 
-.acordeon.open .trigger::after {
+.acordeon.open .trigger::after{
     transform: rotate(180deg);
 }
 
@@ -59,7 +59,7 @@
     transition: opacity .25s ease-in-out;
 }
 
-.acordeon.open .content {
+.acordeon.open .content{
     display: block;
     padding: 0 1rem 1rem 2rem;
     height: auto;
