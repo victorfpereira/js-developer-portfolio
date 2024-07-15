@@ -58,14 +58,14 @@
   ],
   "professionalExperience": [
     {
-      "name": "Tech Lead",
+      "name": "Líder Técnico/Dev Backend no CTHM",
       "period": "Jan 2024 - Current",
-      "description": "In an R&D project for implementing artificial intelligence in statistical process control, act as a technical leader with responsibilities inherent to a Scrum Master and a Product Owner."
+      "description": "Atuação em um projeto P&D para implantação de inteligência artificial em um controle estatístico de processo, atuar como líder técnico com responsabilidades inerentes a um Scrum master e um P.O."
     },
     {
-      "name": "Backend Developer SR",
+      "name": "Desenvolvedor Backend SR. no CITS",
       "period": "Jan 2022 - Jan 2024",
-      "description": "Software development in the Institute's projects"
+      "description": "Desenvolvimento de software em projetos do instituto, definindo arquitetura e desenvolvendo funcionalidades no backend."
     }
   ]
 }
